@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lowpoly Male Base Mesh
+* source:	https://sketchfab.com/3d-models/lowpoly-male-base-mesh-2477bf07b3a944bc82b287e573749205
+* author:	melihucar (https://sketchfab.com/melihucar)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lowpoly Male Base Mesh" (https://sketchfab.com/3d-models/lowpoly-male-base-mesh-2477bf07b3a944bc82b287e573749205) by melihucar (https://sketchfab.com/melihucar) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
